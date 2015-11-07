@@ -13,6 +13,7 @@
 			echo"<li>$frutas[3]<br>";
 			echo"Rodolffos Teste";
 			echo"Vou faer um outro commit agora"
+			echo"Para mim poder fazer um merge"
 		?>
 	</body>
 </html>
